@@ -1,7 +1,7 @@
 
 ## Hi there 👋 It's me Sujith
 
-- 🔭 Here's my [portfolio](file:///C:/Users/Bharath/Downloads/bootstrap-cv-resume-template/bootstrap-cv-resume-template/index.html)                                           
+- 🔭 Here's my [portfolio](https://sujithkumarb.netlify.app/)                                           
 - 🌱 I’m currently learning B.sc Computer Science At Guru Nanak College
 
 - Social Presence
